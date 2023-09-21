@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inknut-antiqua: "Inknut Antiqua";
+
+  /* font sizes */
+  --font-size-5xl: 24px;
+  --font-size-29xl: 48px;
+  --font-size-base: 16px;
+  --font-size-13xl: 32px;
+
+  /* Colors */
+  --color-black: #000;
+  --color-khaki: #fddc66;
+  --color-gray-100: #1e1e1e;
+  --color-gainsboro: rgba(217, 217, 217, 0);
+  --color-darkolivegreen: #668448;
+
+  /* Border radiuses */
+  --br-26xl: 45px;
+}
